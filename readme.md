@@ -1,5 +1,5 @@
 ## NOTE: This repo was copied from github.com/devopsjourney1/jenkins-101
-His youtube video below for detail instructions
+View his youtube video below for detail instructions
 ## YouTube Link
 For the full 1 hour course watch on youtube:
 https://www.youtube.com/watch?v=6YZvp2GwT0A
